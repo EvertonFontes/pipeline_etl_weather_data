@@ -68,3 +68,5 @@ docker-compose.override.yml
 .dockerignore
 postgres-db-volume/
 postgres-data/
+src/_pycache__/
+tests/__pycache__/
